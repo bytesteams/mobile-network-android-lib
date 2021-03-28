@@ -1,0 +1,3 @@
+include ':network'
+include ':sample-app'
+rootProject.name = "mobile-network-android-lib"
